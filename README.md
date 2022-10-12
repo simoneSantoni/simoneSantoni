@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @simoneSantoni
-- 👀 I’m study markets and societies with fancy tools
+- 👀 I’m studying markets and societies with fancy tools
 - 🌱 I’m currently working on causality, network analysis, and NLP with Deep Learning
 - 💞️ I’m looking to collaborate on the application of fancty tools to the study of makets and societies
 - 📫 Drop a line to simone.santoni.1@city.ac.uk
